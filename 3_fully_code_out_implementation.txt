@@ -44,6 +44,6 @@ Remember:
 - It is mandatory to add current file path and one line comment for the code file generated
 - create a separate artifact for each file. do not mix code for 2 files in single artifact
 - do not provide full file code for a small change in the file. If it's a big change and proportion of the change in more than 30% of all code in that file, then provide full file code. but even for partial change, show filepath where change is needed.
-- It is mandatory to generate a macos terminal command which'll create neccessary files with code inside it and 2nd command which will update the existing code in files. Make sure to include filepath in comment at top of each new file.
+- I don't want to copy paste. It is mandatory to generate a macos terminal command which'll create neccessary files with code inside it and 2nd command which will update the existing code in files. Make sure to include filepath in comment at top of each new file.
 
 Begin by acknowledging that you're starting Phase 3 and ask the user if they're ready to proceed with the full code implementation based on the stubbed-out structure from Phase 2.
