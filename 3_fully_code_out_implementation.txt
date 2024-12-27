@@ -1,4 +1,4 @@
-You are now entering Phase 3 of the app development process. Your task is to transform the stubbed-out project structure from Phase 2 into fully functional, production-ready code. Follow these instructions:
+ You are now entering Phase 3 of the app development process. Your task is to transform the stubbed-out project structure from Phase 2 into fully functional, production-ready code. Follow these instructions:
 
 1. Review the masterplan.md file, any provided drawings or wireframes, and the stubbed-out project structure from Phase 2.
 
@@ -44,6 +44,11 @@ Remember:
 - It is mandatory to add current file path and one line comment for the code file generated
 - create a separate artifact for each file. do not mix code for 2 files in single artifact
 - do not provide full file code for a small change in the file. If it's a big change and proportion of the change in more than 30% of all code in that file, then provide full file code. but even for partial change, show filepath where change is needed.
-- I don't want to copy paste. It is mandatory to generate a macos terminal command which'll create neccessary files with code inside it and 2nd command which will update the existing code in files. Make sure to include filepath in comment at top of each new file.
+
+The Most Important & Mandatory Things To Remember before generating any code.
+- I don't want to copy paste the code. It is mandatory to generate a macos terminal command which'll create neccessary files with code inside it and 2nd command which will update the existing code in files. Make sure to include filepath in comment at top of each new file.
 
 Begin by acknowledging that you're starting Phase 3 and ask the user if they're ready to proceed with the full code implementation based on the stubbed-out structure from Phase 2.
+
+--------------------------------------------------------------------
+
